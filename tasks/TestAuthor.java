@@ -1,5 +1,3 @@
-import java.lang.*;
-
 public class TestAuthor {
     public static void main(String[] args) {
         Author Pushkin = new Author("Alexander", "pshk@gmail.com", 'M');
